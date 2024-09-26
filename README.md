@@ -44,7 +44,7 @@
 
 <a href="https://linkedin.com/in/mahdi-oueslati" target="_blank"><img src="https://img.shields.io/badge/-Mahdi%20Oueslati-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> 
 
-For any inquiries, you can reach me at [oueslatimahdi222@gmail.com](mailto:oueslatimahdi222@gmail.com).
+For any inquiries, you can reach me at [mahdiooueslati@gmail.com](mailto:mahdiooueslati@gmail.com).
 
 
 <!--
