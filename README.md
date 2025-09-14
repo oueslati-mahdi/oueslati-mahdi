@@ -28,7 +28,7 @@
 
   
 
-- 🏢 I'm dedicated to Cloud & System Engineering studies and provide technical assistance as a DevOps administrator at DigiTek_Onsult 
+- 🏢 Cloud & DevOps engineer at autobiz france
 
 - ☁️  I'm constantly learning and exploring new technologies to improve my skills. 
 
